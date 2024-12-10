@@ -2,9 +2,6 @@ class Openshift(object):
     """
     Class Openshift
     """
-
-    #        '4.14.42': {'platform': 'RHSA-2024:10523', 'node': 'RHBA-2024:10526'},  
-
  
     rhsa = {
         '4.14.41': {'platform': 'RHSA-2024:9620',  'node': 'RHSA-2024:9623'},
